@@ -1,1 +1,1 @@
-# Cloth-Segmentation-FCN8s-
+# Cloth-Segmentation-FCN8s
